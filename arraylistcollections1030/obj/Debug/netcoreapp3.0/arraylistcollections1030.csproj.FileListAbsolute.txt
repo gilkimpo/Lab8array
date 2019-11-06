@@ -1,0 +1,11 @@
+C:\Users\gilki\source\repos\arraylistcollections1030\arraylistcollections1030\bin\Debug\netcoreapp3.0\arraylistcollections1030.exe
+C:\Users\gilki\source\repos\arraylistcollections1030\arraylistcollections1030\bin\Debug\netcoreapp3.0\arraylistcollections1030.deps.json
+C:\Users\gilki\source\repos\arraylistcollections1030\arraylistcollections1030\bin\Debug\netcoreapp3.0\arraylistcollections1030.runtimeconfig.json
+C:\Users\gilki\source\repos\arraylistcollections1030\arraylistcollections1030\bin\Debug\netcoreapp3.0\arraylistcollections1030.runtimeconfig.dev.json
+C:\Users\gilki\source\repos\arraylistcollections1030\arraylistcollections1030\bin\Debug\netcoreapp3.0\arraylistcollections1030.dll
+C:\Users\gilki\source\repos\arraylistcollections1030\arraylistcollections1030\bin\Debug\netcoreapp3.0\arraylistcollections1030.pdb
+C:\Users\gilki\source\repos\arraylistcollections1030\arraylistcollections1030\obj\Debug\netcoreapp3.0\arraylistcollections1030.csprojAssemblyReference.cache
+C:\Users\gilki\source\repos\arraylistcollections1030\arraylistcollections1030\obj\Debug\netcoreapp3.0\arraylistcollections1030.AssemblyInfoInputs.cache
+C:\Users\gilki\source\repos\arraylistcollections1030\arraylistcollections1030\obj\Debug\netcoreapp3.0\arraylistcollections1030.AssemblyInfo.cs
+C:\Users\gilki\source\repos\arraylistcollections1030\arraylistcollections1030\obj\Debug\netcoreapp3.0\arraylistcollections1030.dll
+C:\Users\gilki\source\repos\arraylistcollections1030\arraylistcollections1030\obj\Debug\netcoreapp3.0\arraylistcollections1030.pdb
